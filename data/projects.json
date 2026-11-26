@@ -7,7 +7,7 @@
     "description": "Eksperimen komposisi, warna, dan narasi visual untuk menyampaikan ide.",
     "visual": "visual-orange",
     "artText": "VISUAL<br>STORY",
-    "image": "assets/project-visual-story.jpg"
+    "image": "project-visual-story.jpg"
   },
   {
     "title": "Logic & mathematics",
@@ -17,7 +17,7 @@
     "description": "Dokumentasi proses berpikir, pola, dan pemecahan masalah matematika.",
     "visual": "visual-grid",
     "artText": "LOGIC<br>LAB",
-    "image": "assets/project-logic-lab.jpg"
+    "image": "project-logic-lab.jpg"
   },
   {
     "title": "Creative archive",
@@ -27,7 +27,7 @@
     "description": "Kumpulan ide, sketsa, eksperimen, dan eksplorasi lintas bidang.",
     "visual": "visual-green",
     "artText": "IDEA<br>ARCHIVE",
-    "image": "assets/project-idea-archive.jpg"
+    "image": "project-idea-archive.jpg"
   },
   {
     "title": "Learning journal",
@@ -37,6 +37,6 @@
     "description": "Catatan perjalanan belajar dan rangkuman konsep yang sedang dipelajari.",
     "visual": "visual-orange",
     "artText": "LEARN<br>LOG",
-    "image": "assets/project-learning-journal.jpg"
+    "image": "project-learning-journal.jpg"
   }
 ]
