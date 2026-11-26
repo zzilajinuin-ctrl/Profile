@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Visual storytelling",
+    "category": "design",
+    "type": "VISUAL DESIGN",
+    "year": "2026",
+    "description": "Eksperimen komposisi, warna, dan narasi visual untuk menyampaikan ide.",
+    "visual": "visual-orange",
+    "artText": "VISUAL<br>STORY",
+    "image": "assets/project-visual-story.jpg"
+  },
+  {
+    "title": "Logic & mathematics",
+    "category": "analysis",
+    "type": "ANALYTICAL",
+    "year": "2026",
+    "description": "Dokumentasi proses berpikir, pola, dan pemecahan masalah matematika.",
+    "visual": "visual-grid",
+    "artText": "LOGIC<br>LAB",
+    "image": "assets/project-logic-lab.jpg"
+  },
+  {
+    "title": "Creative archive",
+    "category": "creative",
+    "type": "EXPLORATION",
+    "year": "2026",
+    "description": "Kumpulan ide, sketsa, eksperimen, dan eksplorasi lintas bidang.",
+    "visual": "visual-green",
+    "artText": "IDEA<br>ARCHIVE",
+    "image": "assets/project-idea-archive.jpg"
+  },
+  {
+    "title": "Learning journal",
+    "category": "analysis",
+    "type": "RESEARCH NOTES",
+    "year": "2026",
+    "description": "Catatan perjalanan belajar dan rangkuman konsep yang sedang dipelajari.",
+    "visual": "visual-orange",
+    "artText": "LEARN<br>LOG",
+    "image": "assets/project-learning-journal.jpg"
+  }
+]
